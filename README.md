@@ -1,7 +1,13 @@
-"# medical-ai-assistant" 
 🏥 Medical AI Assistant
 A comprehensive medical information system powered by IBM Granite 3.2-2B Instruct model, featuring a modern blue-teal themed interface built with Gradio
 
+Personalized medication dosage calculations
+Age and weight-based recommendations
+Medical condition considerations
+Safety warnings and contraindications
+
+🌟 Features
+💊 Dose Recommendation System
 Personalized medication dosage calculations
 Age and weight-based recommendations
 Medical condition considerations
